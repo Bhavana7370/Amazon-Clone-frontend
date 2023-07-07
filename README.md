@@ -1,2 +1,2 @@
-# Amazon-Clone-frontend
-This website resembles Amazon home page. It is done using html and css.
+# Amazon-Clone(Home Page) using html and css
+This is a responsive website prepared using html and css.
